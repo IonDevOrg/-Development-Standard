@@ -6,7 +6,7 @@ By following these recommendations, you can ensure that our PRs are clear, conci
 ## Pull Request Name
   Follow the suggested pattern: (pull request type) (TICKER NUMBER): [Short ticket summary => Present]
 
-> feat(ION-65): Create dev standard reposito
+> feat(ION-65): Create dev standard repositoy
 
 This ticker Number references the Ticket Task defined in the **Jira Platform**.
   ### Other   good practices to consider when naming your Pull Request:
