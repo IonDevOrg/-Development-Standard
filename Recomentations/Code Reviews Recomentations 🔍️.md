@@ -1,12 +1,19 @@
-﻿# Code Reviews Recomentations 🔍️
+# Code Reviews Recomentations 🔍️
+## Code Review Stages:
+ 1. Author sends PR. Author requests code
+ 2. review. Reviewer conducts code review.
+ 3. Author applies suggestions. 
+ 4. Author requests code review again. 
+ 5. Repeat steps 3-5 as necessary. 
+ 6. After Reviewer's approval, Author needs to merge the code.
 
 ## Best Practices for Code Review
 
 The first aspect of a good code review is to focus on the human side before the code. Below is a list of behaviors to pay attention to when reviewing someone else's code:
 
-### Number of Reviewers (1 or 2):
+### Number of Reviewers (1):
 
-By default and according to our team's configuration, we have defined that there should be 1 or a maximum of 2 reviewers involved in the development of the project to be reviewed.
+By default and according to our team's configuration, we have defined that there should be 1 involved in the development of the project to be reviewed.
 
 ### About the Reviewer
 
